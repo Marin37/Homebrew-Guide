@@ -27,9 +27,9 @@ Development tools
 To get started, make sure you have all the following tools installed on your system.
 
 1. `devkitA64 <https://devkitpro.org/wiki/Getting_Started>`_
-    - The toolchains used to compile your homebrew apps. Windows has a installer for it and other platforms just use pacman. Make sure to actually install the switch package that contains devkitA64!
+    - The toolchains used to compile your homebrew apps. Windows has an installer for it and other platforms just use pacman. Make sure to actually install the switch package that contains devkitA64!
 2. `Visual Studio Code <https://code.visualstudio.com/>`_
-    - A amazing IDE / Text editor that works perfectly for homebrew development.
+    - An amazing IDE / Text editor that works perfectly for homebrew development.
     - Make sure to install the C/C++ and optionally the GitLens extension
 3. `GitKraken [Optional] <https://www.gitkraken.com/>`_
     - A Git GUI that makes version control super easy.
@@ -40,7 +40,7 @@ Useful resources
 1. `SwitchBrew <https://switchbrew.org>`_
     - Provides information about the Switch's hardware and software.
 2. `libnx <https://github.com/switchbrew/libnx>`_
-    - A amazing homebrew library that gives access to many of the switch's hardware and software features. ¨
+    - An amazing homebrew library that gives access to many of the switch's hardware and software features. ¨
     - A Doxygen documentation can be found `here <https://switchbrew.github.io/libnx/>`_
 3. `switch-examples <https://github.com/switchbrew/switch-examples>`_ 
     - Examples for common homebrew features
