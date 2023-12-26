@@ -15,7 +15,7 @@ Getting started
 ...............
 
 The first thing you'll need to get to start a project is a Makefile. These files are used to tell ``make`` how to turn your code into 
-a executable .nro file. Luckily there's a `premade template project <https://github.com/switchbrew/switch-examples/tree/master/templates/application>`_
+an executable .nro file. Luckily there's a `premade template project <https://github.com/switchbrew/switch-examples/tree/master/templates/application>`_
 that can be used for this purpose.
 
 Download the whole application folder from the GitHub repo and put it somewhere on your computer.
